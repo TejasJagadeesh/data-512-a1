@@ -45,6 +45,8 @@ The final data is stored in a `csv` file for easy access and the schema/descript
 
 The csv file is provided in this repository: [en-wikipedia_traffic_200712-201809.csv](https://github.com/TejasJagadeesh/data-512-a1/blob/master/en-wikipedia_traffic_200801-201709.csv)
 
+Note: The data from the Pageview API excludes spiders/crawlers, while data from the Pagecounts API does not.
+
 ## Final Results 
 
 The data was visualized using `matplotlib` as shown below:
