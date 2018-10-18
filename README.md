@@ -43,12 +43,12 @@ The final data is stored in a `csv` file for easy access and the schema/descript
 |pageview_desktop_views| number of views for desktop clients reported by the Pageviews API |
 |pageview_mobile_views| number of views for mobile clients reported by the Pageviews API |
 
-The csv file is provided in this repository: [en-wikipedia_traffic_200712-201809.csv](https://github.com/TejasJagadeesh/data512-assignment-1/blob/master/en-wikipedia_traffic_200801-201709.csv)
+The csv file is provided in this repository: [en-wikipedia_traffic_200712-201809.csv](https://github.com/TejasJagadeesh/data-512-a1/blob/master/en-wikipedia_traffic_200801-201709.csv)
 
 ## Final Results 
 
 The data was visualized using `matplotlib` as shown below:
 
-![Wikipedia Page View Analysis for Date Range 2008 to 2018](https://github.com/TejasJagadeesh /data512-assignment-1/blob/master/wikipedia_monthly_views_analysis.png)
+![Wikipedia Page View Analysis for Date Range 2008 to 2018](https://github.com/TejasJagadeesh/data-512-a1/blob/master/wikipedia_monthly_views_analysis.png)
 
 There is clear spike in overall traffic values around 2016. This could be explained by the fact that pagecounts were being phased out and pageviews were being introduced.
