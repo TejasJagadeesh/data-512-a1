@@ -49,7 +49,7 @@ Note: The data from the Pageview API excludes spiders/crawlers, while data from 
 
 ## Final Results 
 
-The data was visualized using `matplotlib` as shown below:
+Here is visualization of the monthly traffic using `matplotlib`:
 
 ![Wikipedia Page View Analysis for Date Range 2008 to 2018](https://github.com/TejasJagadeesh/data-512-a1/blob/master/wikipedia_monthly_views_analysis.png)
 
