@@ -1,6 +1,6 @@
 # Data 512 (Human Centered Data Science) Assignment 1 - Data curation
 
-## Goal of the Project
+## Goals of the Project
 
 - The goal of this assignment is to construct, analyze, and publish a dataset of monthly traffic on English Wikipedia from January 1 2008 through September 30 2018. All of the analysis is performed in the [Jupyter notebook](https://github.com/TejasJagadeesh/data-512-a1/blob/master/hcds-a1-data-curation.ipynb) and the data is made available in `.json` (the naming convention is `apiname_accesstype_firstmonth-lastmonth.json`) and `.csv` files. This ReadMe acts as the documentation.
 
