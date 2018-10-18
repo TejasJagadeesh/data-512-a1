@@ -2,7 +2,7 @@
 
 ## Goal of the Project
 
-- The goal of this assignment is to construct, analyze, and publish a dataset of monthly traffic on English Wikipedia from January 1 2008 through September 30 2018. All of the analysis is performed in the [Jupyter notebook](https://github.com/TejasJagadeesh/data-512-a1/blob/master/hcds-a1-data-curation.ipynb) and the data is made available in `.json` (the naming conventio is `apiname_accesstype_firstmonth-lastmonth.json`) and `.csv` files. This ReadMe acts as the documentation.
+- The goal of this assignment is to construct, analyze, and publish a dataset of monthly traffic on English Wikipedia from January 1 2008 through September 30 2018. All of the analysis is performed in the [Jupyter notebook](https://github.com/TejasJagadeesh/data-512-a1/blob/master/hcds-a1-data-curation.ipynb) and the data is made available in `.json` (the naming convention is `apiname_accesstype_firstmonth-lastmonth.json`) and `.csv` files. This ReadMe acts as the documentation.
 
 - The purpose of the assignment is to demonstrate that I can follow the best practices for open scientific research in designing and implementing my project, and make my project fully reproducible by others: from data collection to data analysis.
 
